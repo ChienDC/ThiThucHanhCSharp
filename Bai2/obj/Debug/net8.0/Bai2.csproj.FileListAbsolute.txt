@@ -1,0 +1,14 @@
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/bin/Debug/net8.0/Bai2
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/bin/Debug/net8.0/Bai2.deps.json
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/bin/Debug/net8.0/Bai2.runtimeconfig.json
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/bin/Debug/net8.0/Bai2.dll
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/bin/Debug/net8.0/Bai2.pdb
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/obj/Debug/net8.0/Bai2.GeneratedMSBuildEditorConfig.editorconfig
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/obj/Debug/net8.0/Bai2.AssemblyInfoInputs.cache
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/obj/Debug/net8.0/Bai2.AssemblyInfo.cs
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/obj/Debug/net8.0/Bai2.csproj.CoreCompileInputs.cache
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/obj/Debug/net8.0/Bai2.dll
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/obj/Debug/net8.0/refint/Bai2.dll
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/obj/Debug/net8.0/Bai2.pdb
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/obj/Debug/net8.0/Bai2.genruntimeconfig.cache
+/home/os22/RiderProjects/ThiThucHanhCSharp/Bai2/obj/Debug/net8.0/ref/Bai2.dll

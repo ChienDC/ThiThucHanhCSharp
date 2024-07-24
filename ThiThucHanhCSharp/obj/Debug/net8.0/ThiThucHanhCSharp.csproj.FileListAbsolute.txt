@@ -1,0 +1,14 @@
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/bin/Debug/net8.0/ThiThucHanhCSharp
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/bin/Debug/net8.0/ThiThucHanhCSharp.deps.json
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/bin/Debug/net8.0/ThiThucHanhCSharp.runtimeconfig.json
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/bin/Debug/net8.0/ThiThucHanhCSharp.dll
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/bin/Debug/net8.0/ThiThucHanhCSharp.pdb
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/obj/Debug/net8.0/ThiThucHanhCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/obj/Debug/net8.0/ThiThucHanhCSharp.AssemblyInfoInputs.cache
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/obj/Debug/net8.0/ThiThucHanhCSharp.AssemblyInfo.cs
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/obj/Debug/net8.0/ThiThucHanhCSharp.csproj.CoreCompileInputs.cache
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/obj/Debug/net8.0/ThiThucHanhCSharp.dll
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/obj/Debug/net8.0/refint/ThiThucHanhCSharp.dll
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/obj/Debug/net8.0/ThiThucHanhCSharp.pdb
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/obj/Debug/net8.0/ThiThucHanhCSharp.genruntimeconfig.cache
+/home/os22/RiderProjects/ThiThucHanhCSharp/ThiThucHanhCSharp/obj/Debug/net8.0/ref/ThiThucHanhCSharp.dll

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThiThucHanhCSharp", "ThiThucHanhCSharp\ThiThucHanhCSharp.csproj", "{8391A61A-F4FF-4669-8E36-07FD3F56B297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2", "Bai2\Bai2.csproj", "{EE85B1CA-75E4-429F-BA16-50A59984E4ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8391A61A-F4FF-4669-8E36-07FD3F56B297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8391A61A-F4FF-4669-8E36-07FD3F56B297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8391A61A-F4FF-4669-8E36-07FD3F56B297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8391A61A-F4FF-4669-8E36-07FD3F56B297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE85B1CA-75E4-429F-BA16-50A59984E4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE85B1CA-75E4-429F-BA16-50A59984E4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE85B1CA-75E4-429F-BA16-50A59984E4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE85B1CA-75E4-429F-BA16-50A59984E4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
